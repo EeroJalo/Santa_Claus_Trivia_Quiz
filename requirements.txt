@@ -1,0 +1,9 @@
+Ensure you have Python 3.7 or later installed. 
+You can check by running: 
+python --version
+
+Install Streamlit via pip if it isn't already installed:
+pip install streamlit
+
+Pillow: For image handling (used to load and display the Santa image).
+pip install pillow
