@@ -16,7 +16,7 @@ questions = [
     {
         "question": "Where does Santa Claus live?",
         "options": ["The South Pole", "Lapland", "The North Pole", "Greenland"],
-        "answer": "The North Pole",
+        "answer": "Lapland",
     },
     {
         "question": "What does Santa traditionally say as he flies away?",
