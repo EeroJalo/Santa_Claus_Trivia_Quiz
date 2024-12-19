@@ -21,8 +21,8 @@ questions = [
     {
         "question": "What does Santa traditionally say as he flies away?",
         "options": [
-            "Ho, ho, ho! Merry Christmas!",
             "Goodbye and good luck!",
+            "Ho, ho, ho! Merry Christmas!",
             "See you next year!",
             "Happy Holidays!"
         ],
