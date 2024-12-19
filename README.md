@@ -12,3 +12,5 @@ bash
 Copy code
 streamlit run santa_quiz.py
 Open the app in your browser and enjoy the quiz! 🎄
+
+This is for learning and testing a suitable scenario!
